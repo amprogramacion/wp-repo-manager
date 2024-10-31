@@ -1,0 +1,3 @@
+<?php // dev.encrypt.public on Thu, 31 Oct 2024 19:12:51 +0100
+
+return "_\xC0\x3E\xC7\xB5\x91\x22uMn\x06\xFC_0\x26SHB\x5B0z\xC7y\xF0\x972v\x07\xCC\x0C\xC0u";
